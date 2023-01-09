@@ -23,7 +23,7 @@ const works = [
     live: 'https://rainbow-chimera-f57cdd.netlify.app/',
     source: 'https://github.com/Bushido-brown/financial-metrics',
   },
-  
+
   {
     name: 'Leaderboard',
     description: 'A JavaScript project for a Leaderboard list app, using webpack and ES6 features, notably modules. This application records scores for a game for different players',
@@ -40,7 +40,7 @@ const works = [
     live: 'https://bushido-brown.github.io/Town-hall-meeting/',
     source: 'https://github.com/Bushido-brown/Town-hall-meeting',
   },
-  
+
   {
     name: 'Book Car',
     description: 'Book car is a platform to book a car that is present in different cities for a given period of time. The user selects the duration of rental per car model type and price range. if a user is an admin he can manage the car resources by updating the list of cars in the database.',
