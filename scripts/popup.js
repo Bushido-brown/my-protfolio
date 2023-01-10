@@ -1,7 +1,7 @@
 const works = [
   {
     name: 'To-do List',
-    description: 'To-do list is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. A simple website that allows user to create a To-do list.',
+    description: 'A to-do list is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. A simple website that allows users to create a To-do list.',
     imageLocation: './images/to_do_list.png',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Webpack'],
     live: 'https://bushido-brown.github.io/To-do-list-list-structure/dist/index.html',
@@ -43,7 +43,7 @@ const works = [
 
   {
     name: 'Book Car',
-    description: 'Book car is a platform to book a car that is present in different cities for a given period of time. The user selects the duration of rental per car model type and price range. if a user is an admin he can manage the car resources by updating the list of cars in the database.',
+    description: 'Book car is a platform to book a car that is present in different cities for a given period. The user selects the duration of rental per car model type and price range. if a user is an admin he can manage the car resources by updating the list of cars in the database.',
     imageLocation: './images/Carbooking.jpeg',
     technologies: ['Javascript', 'React', 'Redux', 'RoR'],
     live: 'https://bookcar.onrender.com/',
